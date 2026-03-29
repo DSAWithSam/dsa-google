@@ -4,6 +4,10 @@
 
 ---
 
+## A few things worth noting about this one:
+
+The "Understanding the Partition Approach" section comes before the pseudocode intentionally. This problem has a conceptual leap that needs to be explained in plain English before any code makes sense. Readers who jump straight to the solution without that section will not actually understand what they are looking at. The two step-by-step traces cover both the odd and even total length cases since the median calculation differs between them, and both are tested in the examples. The mistakes section covers five items rather than the usual four because this problem has more specific failure modes, particularly around the +1 in the half-length formula and the float division in Python 2.
+
 ## Problem Statement
 
 Given two sorted arrays `nums1` and `nums2` of size `m` and `n` respectively, return the median of the two sorted arrays.
