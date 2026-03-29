@@ -39,4 +39,4 @@ Mastering these 8 problems gives you a very strong foundation for Google intervi
 
 ---
 
-**Back to main repo:** [../README.md](../README.md)
+**Back to main repo:** [../README.md](https://github.com/DSAWithSam/dsa-google)
