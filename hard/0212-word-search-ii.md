@@ -4,6 +4,10 @@
 
 ---
 
+## A few things worth noting about this one:
+
+The "What the Problem Is Really Asking" section explicitly names Word Search I and Implement Trie as prerequisites. Anyone following the Google series in order will have covered Flood Fill (E-08) and the Trie (M-11) before reaching this problem, so the connection is intentional. The Trie pruning gets its own dedicated section rather than just a mention in the code comments, because it is the single most important optimisation and the one most likely to be skipped by a candidate who gets the basic solution working. The step-by-step trace uses a smaller 2x2 board to keep it readable without losing any meaningful cases.
+
 ## Problem Statement
 
 Given an `m x n` board of characters and a list of strings `words`, return all words on the board.
