@@ -292,4 +292,4 @@ print(sol.isValid(""))          # Expected: True   (empty string)
 
 ---
 
-*Google Easy Track · Episode 02 of 08*
+*Google Easy Track · Tutorial 02 of 08*
