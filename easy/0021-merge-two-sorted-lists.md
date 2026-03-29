@@ -362,4 +362,4 @@ print_list(sol.mergeTwoLists(make_list([1, 1]), make_list([1])))           # Exp
 
 ---
 
-*Google Easy Track · Episode 03 of 08*
+*Google Easy Track · Tutorial 03 of 08*
