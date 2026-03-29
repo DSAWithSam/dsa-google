@@ -4,6 +4,10 @@
 
 ---
 
+## A few things worth noting about this one:
+
+Design problems have a different structure than algorithm problems, so the tutorial reflects that. The "What the Problem Is Really Asking" section explains the data structure choice before any code appears. The OrderedDict approach is presented as the brute force equivalent since it is a valid but insufficiently instructive answer. The six-item mistakes section is longer than usual because LRU Cache has more distinct failure modes than most problems, particularly around the sentinel nodes and key storage inside the node. The test block covers the primary example, the capacity-1 edge case, and the update-existing-key case, which is the one most likely to be wrong in a first implementation.
+
 ## Problem Statement
 
 Design a data structure that follows the constraints of a **Least Recently Used (LRU) cache**.
