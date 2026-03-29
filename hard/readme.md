@@ -18,11 +18,11 @@ These problems are significantly more challenging and test your ability to combi
 
 Follow this order when studying:
 
-1. **LRU Cache** – Most frequently asked Hard at Google (17× reported). Master design + linked list + hash map.
-2. **Trapping Rain Water** – Excellent for understanding multiple approaches (stack, two pointers, greedy).
-3. **Median of Two Sorted Arrays** – Advanced binary search and divide & conquer.
-4. **Word Search II** – Combines Trie with backtracking (builds on Word Search).
-5. **Find Median from Data Stream** – Heavy use of heaps for real-time median finding.
+1. **LRU Cache** Most frequently asked Hard at Google (17× reported). Master design + linked list + hash map.
+2. **Trapping Rain Water** Excellent for understanding multiple approaches (stack, two pointers, greedy).
+3. **Median of Two Sorted Arrays** Advanced binary search and divide & conquer.
+4. **Word Search II** Combines Trie with backtracking (builds on Word Search).
+5. **Find Median from Data Stream** Heavy use of heaps for real-time median finding.
 
 ### Notes
 
