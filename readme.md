@@ -68,10 +68,10 @@ Senior-level problems, including the most frequently reported Hard at Google:
 Start with the **Easy Track** in order.  
 Read the tutorial, understand the intuition, implement the solutions yourself, then try the follow-ups.
 
-All code examples are in Python for readability and interview speed.
+All code examples are in Python for readability and interview speed (Note: Some of the solutions will not work if you were to copy them directly into LeetCode. The purpose of this tutorial series is to teach you how to tackle these problems, not provide you with 1:1 LeetCode solutions. The code will be functional if you were to plug it into a Python interpreter, and test cases will be included to match. I prefer to use: online-python.com as my online Python interpreter).
 
 This is part of the larger **Demystifying DSA with Sam** series.
 
 Let’s get you confident with Google DSA.
 
-— Sam
+- Sam
