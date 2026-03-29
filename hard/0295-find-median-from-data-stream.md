@@ -4,6 +4,10 @@
 
 ---
 
+## A few things worth noting about this one:
+
+The negation trick gets its own dedicated section with a concrete example because it is the single most confusing part of implementing this in Python, and glossing over it causes more bugs than anything else. The step-by-step trace walks through all three operations from Example 1 in full detail, showing both the partition correction and the size rebalancing at each step. The follow-ups address both parts of the problem's own follow-up question directly, which is unusual since LeetCode includes them in the problem statement itself, so they deserve a complete answer rather than a brief mention.
+
 ## Problem Statement
 
 The median is the middle value in an ordered integer list. If the size of the list is even, there is no middle value and the median is the mean of the two middle values.
