@@ -4,6 +4,10 @@
 
 ---
 
+## A few things worth noting about this one:
+
+This problem has three meaningfully distinct solutions rather than the usual two, so all three are included with their own code blocks and complexity rows in the table. The prefix array approach sits between brute force and optimal because it is the most direct translation of the water formula and makes the two-pointer logic much easier to understand in contrast. The "Why the Two-Pointer Logic Is Correct" section is its own block because this is genuinely the hardest part of the problem to justify. Most tutorials show the code without explaining why it works. The step-by-step trace uses Example 2 rather than Example 1 because it is shorter and easier to follow without losing any meaningful cases.
+
 ## Problem Statement
 
 Given `n` non-negative integers representing an elevation map where the width of each bar is `1`, compute how much water it can trap after raining.
